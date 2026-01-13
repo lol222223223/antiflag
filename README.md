@@ -28,4 +28,4 @@
 --Всех детишек украдёт, кто ему поверит ]] --
 
 getgenv().SCRIPT_KEY="5f693979-5b28-43db-ab1a-613c8079b947";
-loadstring(game:HttpGet("loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/0f5c31ea3ecb383dcac153193f68ea97f3830defa2ff68eaa28226e463b860a8/download"))()"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/0f5c31ea3ecb383dcac153193f68ea97f3830defa2ff68eaa28226e463b860a8/download"))()
