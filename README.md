@@ -29,3 +29,6 @@
 
 getgenv().SCRIPT_KEY="5f693979-5b28-43db-ab1a-613c8079b947";
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/0f5c31ea3ecb383dcac153193f68ea97f3830defa2ff68eaa28226e463b860a8/download"))()
+getgenv().SCRIPT_KEY="5f693979-5b28-43db-ab1a-613c8079b947";
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/6751dac9d579eee6b89bbdcdeb5ccb5bb47ed2f5a0cc04547bd9fb0da0283c0e/download"))()
+
